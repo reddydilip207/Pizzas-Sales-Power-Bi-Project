@@ -46,10 +46,32 @@
 
 # Dashboard Insights
 
-- Best / Worst Sellers
-- Top Pizza by Revenue: The Thai Chicken Pizza
-- Top Pizza by Quantity & Orders: The Classic Deluxe Pizza
-- Lowest Seller: The Brie Carre Pizza
+*Best & Worst Performing Pizzas*
+
+- Top Seller by Revenue: The Thai Chicken Pizza
+- Top Seller by Quantity & Orders: The Classic Deluxe Pizza
+- Lowest Seller: The Brie Carre Pizza contributed the least to sales across all metrics.
+- The Classic Deluxe consistently performs well in both sales quantity and total orders, showing strong overall demand.
+
+# Sales Trends
+
+- Peak Sales Days: Fridays and Saturdays — indicating strong weekend demand.
+- Busiest Months: July and January — likely due to seasonal or promotional spikes.
+- Lowest Activity: September and October show a noticeable dip in total orders.
+
+# Category & Size Analysis
+
+- Classic Category leads all others, contributing the highest total sales and orders (≈27%).
+- Large Pizzas dominate, making up 45.89% of total sales, followed by Medium (30%) and Regular (22%).
+- XX-Large Pizzas are least popular, accounting for less than 1% of total sales.
+
+
+# Business Recommendations
+
+- Focus marketing efforts on top-selling items (Thai Chicken, Classic Deluxe) to maximize revenue.
+- Introduce offers or bundles for low-performing pizzas (Brie Carre, Spinach) to improve turnover.
+- Promote weekday deals to balance sales and reduce weekend load.
+- Maintain inventory and staff capacity during July & January to meet peak demand.
 
 # Busiest Days & Times
 - Peak Days: Friday & Saturday evenings
