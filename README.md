@@ -134,4 +134,3 @@ Dilip Kumar
 💼 Aspiring Data Analyst
 🔗 LinkedIn Profile[www.linkedin.com/in/redilip]
  | GitHub Projects[https://github.com/reddydilip207/Pizzas-Sales-Power-Bi-Project/blob/main/pizza%20sales%20power%20bi%20project.pbix]
- https://github.com/reddydilip207/Pizzas-Sales-Power-Bi-Project/blob/main/Screenshot%202025-11-13%20181642.png?raw=true
