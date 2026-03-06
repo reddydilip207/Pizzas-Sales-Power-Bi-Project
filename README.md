@@ -1,5 +1,5 @@
 #  🍕 Pizza Sales Analysis Dashboard (Power BI)
-https://storage.googleapis.com/kaggle-datasets-images/5159935/8620207/6c0bce27fe435cd7988889e003c15f38/dataset-cover.jpg?t=2024-06-06-07-30-20
+![Coffee Logo](https://storage.googleapis.com/kaggle-datasets-images/5159935/8620207/6c0bce27fe435cd7988889e003c15f38/dataset-cover.jpg?t=2024-06-06-07-30-20)
 
 
  # Project Overview
